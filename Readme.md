@@ -5,10 +5,9 @@
 * [Apocalipsis higiénico](https://theparadoxroom.com/digital/game/apocalipsis-higienico/)
 * [Post apocalipsis higiénico](https://theparadoxroom.com/digital/game/post-apocalipsis-higienico/)
 * [Hora 26](https://roomescapempresas.es/hora26/)
-* [La cura del virus 2](https://www.cazadoresdeescapes.es/la-cura-del-virus-juego-2/)
-* [Justicia Criminal](https://www.cazadoresdeescapes.es/justicia-criminal-i-reglas/)
 
 ## 2 Jugadores o 2 equipos
 
 * [La cura del virus](https://www.cazadoresdeescapes.es/lacuradelvirus/)
-
+* [La cura del virus 2](https://www.cazadoresdeescapes.es/la-cura-del-virus-juego-2/)
+* [Justicia Criminal](https://www.cazadoresdeescapes.es/justicia-criminal-i-reglas/)
