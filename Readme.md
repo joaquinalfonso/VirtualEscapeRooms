@@ -30,6 +30,7 @@
 * [Perdida](https://www.perdida.es/)
 * [Estudiantes al rescate](https://www.explotatuseso.com/estudiante-al-rescate)
 * [La nota vol.2](https://www.explotatuseso.com/la-nota-vol-2)
+* [El gran misterio](https://lasenigmaticas.es/elgranmisterio)
 
 ## 6 jugadores
 
